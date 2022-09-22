@@ -1,0 +1,15 @@
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\bin\Debug\net5.0\IKnowTechnologyCase.CORE.deps.json
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\bin\Debug\net5.0\IKnowTechnologyCase.CORE.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\bin\Debug\net5.0\IKnowTechnologyCase.CORE.runtimeconfig.dev.json
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\bin\Debug\net5.0\IKnowTechnologyCase.CORE.dll
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\bin\Debug\net5.0\IKnowTechnologyCase.CORE.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\IKnowTechnologyCase.CORE.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\IKnowTechnologyCase.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\IKnowTechnologyCase.CORE.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\IKnowTechnologyCase.CORE.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\IKnowTechnologyCase.CORE.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\IKnowTechnologyCase.CORE.dll
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\IKnowTechnologyCase.CORE.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\IKnowTechnologyCase.CORE.genruntimeconfig.cache
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\ref\IKnowTechnologyCase.CORE.dll
+C:\Users\ahmet\OneDrive\Masaüstü\IKnowTechnologyToDoList\IKnowTechnologyCase\IKnowTechnologyCase.CORE\obj\Debug\net5.0\refint\IKnowTechnologyCase.CORE.dll

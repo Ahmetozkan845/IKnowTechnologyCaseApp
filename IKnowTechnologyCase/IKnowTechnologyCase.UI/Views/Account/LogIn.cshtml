@@ -1,0 +1,24 @@
+﻿@model LoginDTO
+
+
+<div class="container mt-5">
+    <form asp-action="LogIn">
+
+        <div class="form-group">
+            <label asp-for="UserName"></label>
+            <input asp-for="UserName" class="form-control" placeholder="User Name" />
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" placeholder="Password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" class="btn btn-outline-success" value="LogIn" />
+
+        </div>
+    </form>
+</div>
