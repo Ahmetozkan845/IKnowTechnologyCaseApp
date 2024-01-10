@@ -1,5 +1,5 @@
 # IKnowTechnologyCaseApp
- Asp. Net Core MVC Example Case App
+ Asp. Net Core NNtier API Project
 # IKnowTechnologyCaseApp
  Asp. Net Core MVC Example Case App
 --Case Asp.Net Core MVC Katmanlı mimari ile geliştirilmiştir.
